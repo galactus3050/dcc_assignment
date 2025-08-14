@@ -1,4 +1,4 @@
-# dcc_assignment
+# Electoral Bonds Data Analysis Web Application
 This repository is created as a part of the course ES 113 - Data Centric Computing at Indian Institute of Technology, Gandhinagar, under Professor Mayank Singh. This repository contains data for the website made for analysing data about electoral bonds purchase and redemption details.
 Download the repository as a ZIP file.
 
